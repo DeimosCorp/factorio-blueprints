@@ -1,1 +1,1 @@
-# factorio-blueprints
+# factorio-blueprints repository
